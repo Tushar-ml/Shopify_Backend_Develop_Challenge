@@ -1,4 +1,4 @@
-# Image Similarity Detection using Resnet50
+# Similar Image Searching using Resnet50
 
 ## Introduction
 Given a batch of images, the program tries to Search similar images using Resnet50 based feature vector extraction.
